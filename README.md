@@ -18,9 +18,9 @@ Smart HOJ Vue 连接到 [Deeplearning](https://deeplearning.org.cn)。
 
 ## 使用截图
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/x5hi58or.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/d7zk6r9y.png)
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/apbfkkrh.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/eat4k8h7.png)
 
 ## 伟大的计划
 
