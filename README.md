@@ -29,7 +29,7 @@ Smart HOJ Vue 连接到 [Deeplearning](https://deeplearning.org.cn)。
 ## 伟大的计划
 
 - 20250818 初步完成。
-- 20250819 部署。
+- 20250819 第一次部署。
 - 20250820 完善管理员后台，修复图像问题。Better HOJ。
 - 20250821 Better HOJ。
 - 20250822 修复评论头像显示，Better HOJ：增加讨论覆写权限。
